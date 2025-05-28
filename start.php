@@ -1,6 +1,6 @@
 <?php
     if (isset($_POST['pw'])) {
-        if (htmlspecialchars($_POST['pw']) == 'ba3r') {
+        if (htmlspecialchars($_POST['pw']) == '*********') {
             
             echo "
 
